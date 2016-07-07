@@ -1,0 +1,18 @@
+<RCC>
+<qresource>
+	<file>images/OK.png</file>
+	<file>images/NOT_OK.png</file>
+	<file>images/plus.png</file>
+	<file>images/minus.png</file>
+	<file>images/show.png</file>
+	<file>images/hide.png</file>
+	<file>images/open.png</file>
+	<file>images/left.png</file>
+	<file>images/right.png</file>
+	<file>images/merge.png</file>
+	<file>images/larger.png</file>
+	<file>images/smaller.png</file>
+	<file>images/reset.png</file>
+	<file>images/sort.png</file>
+</qresource>
+</RCC>
